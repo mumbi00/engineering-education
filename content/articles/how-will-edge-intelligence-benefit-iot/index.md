@@ -24,26 +24,18 @@ In this article, we will look at the benefits that edge intelligence has brought
 
 ### How does AI at the edge benefit IoT devices?
 #### Reduced bandwidth requirement
-By moving resources closer to the devices that demand them, edge intelligence reduces delay and bandwidth requirements. With edge intelligence, data processing happens locally. And, less data is sent over the internet, which saves internet bandwidth. 
-
-Edge AI allows you to conduct your operations in real-time, so you only use cloud-based services for post-processing or large data sets.
+By moving resources closer to the devices that demand them, edge intelligence reduces delay and bandwidth requirements. With edge intelligence, data processing happens locally. And, less data is sent over the internet, which saves internet bandwidth. Edge AI allows you to conduct your operations in real-time, so you only use cloud-based services for post-processing or large data sets.
 
 #### Reduced latency
-Intelligence edge computing is an enabler for latency-critical applications. It shortens communication propagation and latency. 
-
-Compute intensive systems such as meteorology programs perform under ultra-low latency environments. Intelligence edge computing servers have a computing power enough to handle such systems in real-time.
+Intelligence edge computing is an enabler for latency-critical applications. It shortens communication propagation and latency. Compute intensive systems such as meteorology programs perform under ultra-low latency environments. Intelligence edge computing servers have a computing power enough to handle such systems in real-time.
 
 #### Flexibility
-Edge intelligence is flexible enough to deploy centralized or distributed solutions. This brings economies of scale, especially to cloud edge providers. 
-
-Cloud service providers can provide many cloud services with low latency in two ways:
+Edge intelligence is flexible enough to deploy centralized or distributed solutions. This brings economies of scale, especially to cloud edge providers. Cloud service providers can provide many cloud services with low latency in two ways:
 - Configuring the functionality of the [control plane](https://www.techtarget.com/searchnetworking/definition/control-plane-CP#) according to network proximity.
 - Deploying user-level instances in a distributed manner in the customer edge.
 
 #### Virtualization and analytics
-Intelligence edge computing complements efforts to provide real-time insight into business operations. With computing, businesses can anticipate future demand, deliver service innovation, and define operational efficiencies. 
-
-Edge computing supports security data audits while providing data analytics in real-time.
+Intelligence edge computing complements efforts to provide real-time insight into business operations. With computing, businesses can anticipate future demand, deliver service innovation, and define operational efficiencies. Edge computing supports security data audits while providing data analytics in real-time.
 
 ### How Chip-enabled intelligent edge benefits IoT
 Internet of things has limitations, some of which [artificial intelligence, deep learning, and machine learning](/engineering-education/differences-between-artificial-intelligence-machine-learning-and-deep-learning/) came to solve. In this way, for example. Intelligence edge enhances IoT deployments by ensuring data processing happens closer to IoT devices. This way, IoT benefits in terms of improved data transport efficiency and low latency.
@@ -55,9 +47,7 @@ There was a needed for a solution to address these problems related to tradition
 #### Edge AI chip industry
 Edge AI chips market is anticipated to expand at a compound annual growth rate (CAGR) of 2.[27 percent from 2021](https://www.verifiedmarketresearch.com/product/edge-artificial-intelligence-chips-market/). This will see the industry reach 2.09 Billion US dollars by 2028. 
 
-Customers are preferring IoT devices. And, this is pushing big players in the tech industry to invest more in the development of high-speed processors.
-
-Both the long-established chips makers and startups are focusing on adding artificial intelligence capabilities to the edge. The startups include [Mythic](https://www.mythic-ai.com/), [Hailo](https://hailo.ai/), [Graphcore](https://www.graphcore.ai/), [EdgeQ](https://edgeq.io/), [Flex Logic](https://flex-logix.com/), [Deep Vision](https://deepvision.io/), [BrainChip](https://brainchipinc.com/), and [Blaize](https://www.blaize.com/). [STMelectronics](https://www.st.com/content/st_com/en.html), [NXP](https://www.nxp.com/), [NVIDIA](https://www.nvidia.com/en-us/), [Maxim](https://www.maxim.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), [ARM](https://www.arm.com/), [AMD](https://www.amd.com/en), and [Qualcomm](https://www.qualcomm.com/) have been making microcontrollers and microprocessors in the edge AI for quite some time now.
+Customers are preferring IoT devices. And, this is pushing big players in the tech industry to invest more in the development of high-speed processors. Both the long-established chips makers and startups are focusing on adding artificial intelligence capabilities to the edge. The startups include [Mythic](https://www.mythic-ai.com/), [Hailo](https://hailo.ai/), [Graphcore](https://www.graphcore.ai/), [EdgeQ](https://edgeq.io/), [Flex Logic](https://flex-logix.com/), [Deep Vision](https://deepvision.io/), [BrainChip](https://brainchipinc.com/), and [Blaize](https://www.blaize.com/). [STMelectronics](https://www.st.com/content/st_com/en.html), [NXP](https://www.nxp.com/), [NVIDIA](https://www.nvidia.com/en-us/), [Maxim](https://www.maxim.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), [ARM](https://www.arm.com/), [AMD](https://www.amd.com/en), and [Qualcomm](https://www.qualcomm.com/) have been making microcontrollers and microprocessors in the edge AI for quite some time now.
 
 #### Benefits of chip-enabled intelligent edge
 Chip-enabled edge intelligence improves the value of IoT devices in many ways. Below are some of the benefits:
